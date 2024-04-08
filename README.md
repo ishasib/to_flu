@@ -1,16 +1,19 @@
-# to_flu
+# To-Do App
 
-A new Flutter project.
+This is a simple To-Do application built with Flutter and Hive for local data storage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this application locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed on your machine. You can download and install Flutter from [here](https://flutter.dev/docs/get-started/install).
+- Android emulator or iOS simulator, or a physical device connected to your machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
